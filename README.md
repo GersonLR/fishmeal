@@ -10,3 +10,6 @@ Se ha relacionado la firma espectral con los valores de Proteína, Cenizas, Hume
 
 El codigo ha sido implementado en OCTAVE.
 
+![image](https://user-images.githubusercontent.com/59457401/187980507-573d9ea5-13ad-42de-a5cc-73a38b538830.png)
+
+
